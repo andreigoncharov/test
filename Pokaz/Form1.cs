@@ -10,7 +10,7 @@ namespace Pokaz
 	public partial class Form1 : Form
 	{
 		string rah64 = "619100178"; string rah65 = "619100179";
-		string FIO64 = "Гончарова"; string FIO65 = "Гончаров";
+		string FIO64 = ""; string FIO65 = "";
 		public Form1()
 		{
 			InitializeComponent();
